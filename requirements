@@ -1,0 +1,4 @@
+streamlit
+pandas
+camelot-py[cv]
+# On Windows/macOS/Linux you may need Ghostscript installed system-wide for Camelot lattice.
